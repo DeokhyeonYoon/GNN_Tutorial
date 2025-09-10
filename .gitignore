@@ -1,1 +1,6 @@
 memo
+*.npz
+*.txt
+*.pt
+*.csv
+*.json
